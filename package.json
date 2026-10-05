@@ -1,0 +1,10 @@
+{
+  "name": "com.loficostudios.dialogue",
+  "version": "1.0.0",
+  "displayName": "Dialogue System",
+  "description": "A reusable dialogue system for Unity.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Logan"
+  }
+}
