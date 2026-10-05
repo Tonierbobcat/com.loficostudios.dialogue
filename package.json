@@ -2,6 +2,10 @@
   "name": "com.loficostudios.dialogue",
   "version": "1.0.0",
   "displayName": "Dialogue System",
+  "dependencies": {
+    "com.loficostudios.core": "1.0.0",
+    "com.inkle.ink-unity-integration": "2.0.0"
+  },
   "description": "A reusable dialogue system for Unity.",
   "unity": "6000.0",
   "author": {
